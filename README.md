@@ -1,4 +1,4 @@
-# Salvar-anexos-do-e-mail-em-Python-
+# SalvareE-mails-em-Python
 
 ## 📩 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐳𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐨𝐬 𝐜𝐨𝐦 𝐏𝐲𝐭𝐡𝐨𝐧 + 𝐎𝐮𝐭𝐥𝐨𝐨𝐤
 
